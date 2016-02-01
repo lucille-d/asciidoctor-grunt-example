@@ -1,0 +1,11 @@
+:toc: right
+:icons: font
+:nofooter:
+:imagesdir: images
+:source-highlighter: highlightjs
+
+# Sample Project Documentation
+author <email>
+v1.0, February, 1 2016
+
+include::content.adoc[]

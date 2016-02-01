@@ -1,0 +1,15 @@
+## Image section
+
+Here is an image:
+
+image::sample.png[Image, 400, align='center']
+
+## Code section
+
+Here is a code sample:
+[source, javascript]
+----
+function hello() {
+    console.log('Hello World!');
+}
+----
